@@ -57,4 +57,4 @@ async def on_typing(channel, user, when):
     print(user) # 유저 닉네임
     print(when) # 날짜 및 시간
 
-bot.run('MTAzOTQ2MjQyOTI1NzY0NjE0MA.GTzbN8.GpOFxmQiz9UfIcqb5s3i4tQyBGd2v9T5FHTjMQ')
+bot.run('MTAzOTQ2MjQyOTI1NzY0NjE0MA.GVfhUE.v5tgCAONMvzUaSTfmWkHci6XsikuwmTUXXk3j0')
